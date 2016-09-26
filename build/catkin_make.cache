@@ -1,0 +1,2 @@
+beginner_tutorials:tum_ardrone
+-DCATKIN_DEVEL_PREFIX=/home/alexpoz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alexpoz/catkin_ws/install -G Unix Makefiles
